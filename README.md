@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Hi%2C+I'm+Muhammad+Shamim+%F0%9F%91%8B;Architecting+Autonomous+Intelligence+at+Scale" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Hi%2C+I'm+Muhammad+Taha+%F0%9F%91%8B;Architecting+Autonomous+Intelligence+at+Scale" alt="Typing SVG" /></a>
 
 <br/>
 
