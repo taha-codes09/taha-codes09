@@ -21,8 +21,8 @@
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-taha.coder.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taha.coder.work@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-m--shamim09-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taha-codes09)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~010e910b2b87796385)
+[![GitHub](https://img.shields.io/badge/GitHub-taha--codes09-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taha-codes09)
+
 
 </div>
 
