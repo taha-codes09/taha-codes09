@@ -423,24 +423,9 @@ GitHub awards **profile achievements** (badges like *Pull Shark*, *YOLO*, *Quick
 ---
 
 ## Author & Contact
+- **Author**: Muhammad Taha
+- **GitHub**: [@taha-codes09](https://github.com/taha-codes09)
+- **Email**: [taha.coder.work@gmail.com](mailto:taha.coder.work@gmail.com)
+- **Profile**: [https://github.com/taha-codes09](https://github.com/taha-codes09)
 
-- **Author:** Muhammad Taha
-- **GitHub:** [@taha-codes09](https://github.com/taha-codes09)
-- **Email:** [taha.coder.work@gmail.com](mailto:taha.coder.work@gmail.com)
-- **Profile:** https://github.com/taha-codes09
-
----
-
-<div align="center">
-
-> *"Binary logic is the past. Agentic reasoning is the future. I build the machines that think."*
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=taha-codes09&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
-
-</div>
+Developed by Taha
