@@ -23,7 +23,6 @@
 [![Email](https://img.shields.io/badge/Email-taha.coder.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taha.coder.work@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-taha--codes09-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taha-codes09)
 
-
 </div>
 
 ---
@@ -40,7 +39,7 @@ My systems don't just respond — **they think.**
 
 ## 🚀 The Agentic Intelligence Lab
 
-<sub>Below are my flagship autonomous systems — 80+ repositories, engineered for high-stakes production environments across every industry vertical.</sub>
+<sub>Below are my flagship autonomous systems — 60 curated, high-fidelity production-grade repositories engineered for high-stakes enterprise environments.</sub>
 
 ---
 
@@ -60,12 +59,12 @@ An agentic, cloud-native security platform that autonomously detects, analyzes, 
 </td>
 <td width="50%">
 
-### ⚙️ [DevOps-AI-Engineer-Agent](https://github.com/taha-codes09/DevOps-AI-Engineer-Agent)
-**Autonomous DevOps Operating System**
+### ⚙️ [Agentic-Process-Automation](https://github.com/taha-codes09/Agentic-Process-Automation)
+**Aetheris — Autonomous Process Automation**
 
-An autonomous AI-powered DevOps system that orchestrates CI/CD, PR reviews, site reliability, architecture decisions, and incident management — without waking up human engineers at 3 AM.
+Beyond RPA and rule-based workflows. Aetheris is the bridge between human intent and autonomous execution, orchestrating dynamic DAG-based workflows with human-in-the-loop checkpoints.
 
-`LangGraph` `Python` `CI/CD` `Docker`
+`LangGraph` `Python` `Orchestration` `Docker`
 
 </td>
 </tr>
@@ -75,7 +74,7 @@ An autonomous AI-powered DevOps system that orchestrates CI/CD, PR reviews, site
 ### 🗡️ [Mantis-AI](https://github.com/taha-codes09/Mantis-AI)
 **The Future of Offensive Security**
 
-Orchestrated by Autonomous AI Agents — automating phishing detection, polymorphic malware analysis, and penetration testing through multi-agent collaboration.
+Orchestrated by Autonomous AI Agents — automating threat detection, security auditing, and algorithmic defense through multi-agent collaboration.
 
 `Multi-Agent` `Python` `Security` `LangGraph`
 
@@ -83,9 +82,9 @@ Orchestrated by Autonomous AI Agents — automating phishing detection, polymorp
 <td width="50%">
 
 ### 🔍 [Helix-AI-Orchestrator](https://github.com/taha-codes09/Helix-AI-Orchestrator)
-**TitanAI — Deep Code Auditing**
+**Enterprise Multi-Modal Agent Framework**
 
-A premium autonomous system for deep code auditing using LangGraph-based cyclic architecture with 11 specialized reasoning nodes mirroring senior engineer cognition.
+A premium autonomous system for deep code auditing and multimodal task orchestration using LangGraph-based cyclic architecture with 11 specialized reasoning nodes mirroring senior engineer cognition.
 
 `LangGraph` `AST` `Python` `Code Analysis`
 
@@ -136,9 +135,9 @@ A modular, multi-agent AI system that transforms raw business conversations into
 ### 📬 [Outreach-Pro-Agent](https://github.com/taha-codes09/Outreach-Pro-Agent)
 **Precision Targeting Platform**
 
-High-precision targeting system leveraging Kimi 2.5 and real-time data enrichment to transform cold outreach into data-enriched strategic engagements.
+High-precision targeting system leveraging LLMs and real-time data enrichment to transform cold outreach into data-enriched strategic engagements.
 
-`TypeScript` `Kimi 2.5` `Puppeteer` `Data Enrichment`
+`TypeScript` `Puppeteer` `Data Enrichment` `AI`
 
 </td>
 </tr>
@@ -146,7 +145,7 @@ High-precision targeting system leveraging Kimi 2.5 and real-time data enrichmen
 
 ---
 
-### 🏥 Industry-Specific Agents
+### 🏥 Industry-Specific Agents & Platforms
 
 <table>
 <tr>
@@ -187,7 +186,7 @@ A research-grade, multi-agent AI system simulating a fully functional stock mark
 ### 🛒 [Shopping-GPT](https://github.com/taha-codes09/Shopping-GPT)
 **Agentic E-Commerce Intelligence**
 
-A production-ready, agentic AI chatbot for e-commerce — routing conversations through semantic classifiers, dispatching to specialized LangChain tools.
+A production-ready, agentic AI recommendation engine for e-commerce — routing conversations through semantic classifiers, dispatching to specialized LangChain tools.
 
 `LangChain` `RAG` `Flask` `NLP`
 
@@ -226,11 +225,11 @@ Enterprise-grade autonomous system handling the entire lifecycle of social media
 <td width="50%">
 
 ### 💼 [NexusHire-AI-Agent](https://github.com/taha-codes09/NexusHire-AI-Agent)
-**EliteApply AI — Job Application Agent**
+**NexusHire — Autonomous Sourcing & Screening**
 
-A next-generation autonomous agent revolutionizing the job application process using the cutting-edge sentient framework with Large Multimodal Models.
+A next-generation autonomous agent revolutionizing candidate screening and technical sourcing using multi-agent cognitive workflows.
 
-`Sentient Framework` `LMMs` `Python` `Automation`
+`Multi-Agent` `Python` `Automation` `FastAPI`
 
 </td>
 <td width="50%">
@@ -248,50 +247,50 @@ An industrial-grade Autonomous Editorial Suite replacing fragmented content work
 
 ---
 
-### 🏭 SaaS & Platform Infrastructure
+### 🏭 SaaS, ERP & Knowledge Infrastructure
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔄 [AI-Operations-Manager-Agent](https://github.com/taha-codes09/AI-Operations-Manager-Agent)
-**OpsManager — 24/7 Workflow Intelligence**
+### 🏢 [cwt-erp-pos](https://github.com/taha-codes09/cwt-erp-pos)
+**Enterprise ERP & Point of Sale Suite**
 
-An Agentic AI layer for autonomous workflow optimization — replacing static dashboards with real-time perception-action loops to identify inefficiencies and self-heal.
+A robust, enterprise-grade ERP and POS system providing unified inventory tracking, multi-branch management, point-of-sale terminals, and financial reporting.
 
-`TypeScript` `Real-time` `Automation` `AI`
+`TypeScript` `React` `Node.js` `Enterprise ERP`
 
 </td>
 <td width="50%">
 
-### 📊 [The-Intelligent-Semantic-Layer-for-Modern-Data-Teams](https://github.com/taha-codes09/The-Intelligent-Semantic-Layer-for-Modern-Data-Teams)
-**SQL AI — Autonomous Data Analyst**
+### ⚡ [Hikari-saas](https://github.com/taha-codes09/Hikari-saas)
+**High-Performance SaaS Platform Engine**
 
-A premium, autonomous Data Analyst bridging complex databases and executive decision-making. No SQL, no bottlenecks — just raw intelligence.
+An all-in-one modern SaaS platform template engineered with Next.js, featuring automated multi-tenancy, billing gateways, role-based access control, and edge performance.
 
-`Python` `SQL` `LangGraph` `Data Intelligence`
+`TypeScript` `Next.js` `TailwindCSS` `SaaS`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### ⚡ [QuantumOps-AI](https://github.com/taha-codes09/QuantumOps-AI)
-**Enterprise SaaS Task Orchestration**
+### 💬 [Multi-Agent-RAG-Customer-Support-System](https://github.com/taha-codes09/Multi-Agent-RAG-Customer-Support-System)
+**Enterprise Multi-Agent Customer Support RAG**
 
-Backend-first enterprise SaaS platform for intelligent task orchestration and AI-driven business process execution with event-driven architecture.
+A state-of-the-art Multi-Agent Retrieval-Augmented Generation system designed for complex customer support automation with contextual retrieval and triage.
 
-`GitLab CI/CD` `DigitalOcean` `Multi-tenant` `AI`
+`Python` `LangChain` `Vector DB` `FastAPI`
 
 </td>
 <td width="50%">
 
-### 📈 [OmniMetrics-AI](https://github.com/taha-codes09/OmniMetrics-AI)
-**AI-Driven SaaS Analytics**
+### 🕸️ [flexible-graphrag](https://github.com/taha-codes09/flexible-graphrag)
+**Flexible Knowledge Graph & Hybrid RAG Engine**
 
-High-performance multi-tenant SaaS analytics platform delivering real-time insights, predictive analytics, and intelligent reporting at enterprise scale.
+Open-source platform for advanced document processing, knowledge graph construction, and hybrid vector-graph retrieval capabilities.
 
-`Python` `Analytics` `Multi-tenant` `AI`
+`Python` `GraphRAG` `Knowledge Graphs` `Search`
 
 </td>
 </tr>
@@ -303,12 +302,12 @@ High-performance multi-tenant SaaS analytics platform delivering real-time insig
 
 | Layer | Core Technologies |
 |:------|:-----------------|
-| **🧠 Logic Engines** | GPT-4o, Claude 3.5 Sonnet, DeepSeek-V1/V3, Llama 2/3, Gemini 2.0 Flash, Kimi 2.5 |
-| **🤖 Agentic Frameworks** | LangGraph (Stateful Logic), CrewAI (Role-based), LangChain, PydanticAI, AutoGen |
+| **🧠 Logic Engines** | GPT-4o, Claude 3.5 Sonnet, DeepSeek-V3, Llama 3, Gemini 2.0 Flash |
+| **🤖 Agentic Frameworks** | LangGraph (Stateful Cyclic Logic), CrewAI (Role-based), LangChain, PydanticAI |
 | **🔌 Protocols** | Model Context Protocol (MCP), Tool-Use APIs, Function Calling |
-| **🔗 RAG & Knowledge** | Pinecone, ChromaDB, FAISS, LlamaIndex, Embedding Pipelines |
+| **🔗 RAG & Knowledge** | Pinecone, ChromaDB, FAISS, GraphRAG, LlamaIndex, Hybrid Search |
 | **⚡ Orchestration** | Python (FastAPI/Flask), TypeScript (Node.js/Next.js), React |
-| **🛡️ Backend & APIs** | PHP (Laravel), REST/GraphQL, WebSockets, Microservices |
+| **🛡️ Backend & APIs** | NestJS, REST/GraphQL, WebSockets, Microservices, PostgreSQL |
 | **🏗️ Ops & Infrastructure** | Docker, AWS, DigitalOcean, Supabase, Redis, CI/CD Pipelines |
 | **👁️ Computer Vision** | OCR, Layout Analysis, Table Recognition, Document AI |
 
@@ -339,7 +338,7 @@ High-performance multi-tenant SaaS analytics platform delivering real-time insig
 
 ## 🏆 Awards & Achievements
 
-<sub>GitHub surfaces achievements on your profile automatically — this section showcases platform recognition, contribution milestones, and portfolio highlights.</sub>
+<sub>Platform recognition, contribution milestones, and portfolio highlights.</sub>
 
 ### 🎖️ GitHub Platform Recognition
 
@@ -358,16 +357,16 @@ High-performance multi-tenant SaaS analytics platform delivering real-time insig
 
 | Recognition | Status |
 |:------------|:-------|
-| **Public Repositories** | 100+ production & research projects |
+| **Public Repositories** | 60 Curated High-Fidelity Production Systems |
 | **Contribution Graph** | Consistent daily activity (2024–2026) |
-| **Agentic AI Portfolio** | 80+ autonomous systems published |
+| **Agentic AI Portfolio** | Comprehensive suite of autonomous multi-agent systems |
 | **Open Source Maintainer** | Active multi-repo architecture & releases |
 
 ### 🥇 Contribution Milestones
 
 <div align="center">
 
-![Repositories](https://img.shields.io/badge/Repositories-100%2B-00D9FF?style=for-the-badge&labelColor=0a0a0a)
+![Repositories](https://img.shields.io/badge/Repositories-60_High--Fidelity-00D9FF?style=for-the-badge&labelColor=0a0a0a)
 ![Contributions](https://img.shields.io/badge/Contributions-2000%2B-FF6B35?style=for-the-badge&labelColor=0a0a0a)
 ![Streak](https://img.shields.io/badge/Activity-2024--2026-7B2FBE?style=for-the-badge&labelColor=0a0a0a)
 ![Multi-Agent](https://img.shields.io/badge/Focus-Multi--Agent_AI-00C853?style=for-the-badge&labelColor=0a0a0a)
@@ -381,17 +380,6 @@ High-performance multi-tenant SaaS analytics platform delivering real-time insig
 <img src="https://github-profile-trophy.vercel.app/?username=taha-codes09&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8" width="95%" alt="GitHub Trophies" />
 
 </div>
-
-### 📌 How GitHub Achievements Work
-
-GitHub awards **profile achievements** (badges like *Pull Shark*, *YOLO*, *Quickdraw*) when you:
-
-- Merge pull requests and review code
-- Fix issues and participate in discussions
-- Ship consistent commits across repositories
-- Use GitHub features (Actions, security, co-authors)
-
-**To showcase them:** they appear on the [Achievements tab](https://github.com/taha-codes09?tab=achievements) and in the profile sidebar once earned. This README uses **trophy cards** and **stats widgets** that update automatically from public activity.
 
 ---
 
@@ -413,10 +401,9 @@ GitHub awards **profile achievements** (badges like *Pull Shark*, *YOLO*, *Quick
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Muhammad_Shamim-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/taha-codes09)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Muhammad_Taha-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/taha-codes09)
 [![Email](https://img.shields.io/badge/Email-taha.coder.work%40gmail.com-D14836?style=for-the-badge&labelColor=0a0a0a)](mailto:taha.coder.work@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-m--shamim09-181717?style=for-the-badge&labelColor=0a0a0a)](https://github.com/taha-codes09)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&labelColor=0a0a0a)](https://www.upwork.com/freelancers/~010e910b2b87796385)
+[![GitHub](https://img.shields.io/badge/GitHub-taha--codes09-181717?style=for-the-badge&labelColor=0a0a0a)](https://github.com/taha-codes09)
 
 </div>
 
