@@ -302,7 +302,7 @@ Open-source platform for advanced document processing, knowledge graph construct
 
 | Layer | Core Technologies |
 |:------|:-----------------|
-| **🧠 Logic Engines** | GPT-4o, Claude 3.5 Sonnet, DeepSeek-V3, Llama 3, Gemini 2.0 Flash |
+| **🧠 Logic Engines** | OpenAI, Claude , DeepSeek , Llama , Gemini |
 | **🤖 Agentic Frameworks** | LangGraph (Stateful Cyclic Logic), CrewAI (Role-based), LangChain, PydanticAI |
 | **🔌 Protocols** | Model Context Protocol (MCP), Tool-Use APIs, Function Calling |
 | **🔗 RAG & Knowledge** | Pinecone, ChromaDB, FAISS, GraphRAG, LlamaIndex, Hybrid Search |
@@ -409,10 +409,4 @@ Open-source platform for advanced document processing, knowledge graph construct
 
 ---
 
-## Author & Contact
-- **Author**: Muhammad Taha
-- **GitHub**: [@taha-codes09](https://github.com/taha-codes09)
-- **Email**: [taha.coder.work@gmail.com](mailto:taha.coder.work@gmail.com)
-- **Profile**: [https://github.com/taha-codes09](https://github.com/taha-codes09)
 
-Developed by Taha
