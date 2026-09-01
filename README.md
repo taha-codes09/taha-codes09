@@ -1,412 +1,613 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=46&duration=2800&pause=2200&color=A78BFA&center=true&vCenter=true&width=850&height=90&lines=Muhammad+Taha" alt="Muhammad Taha" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=1800&color=7C3AED&center=true&vCenter=true&repeat=true&width=900&height=40&lines=Agentic+AI+Engineer;Multi-Agent+Systems+%7C+RAG+%7C+MCP+%7C+AI+Automation;Production-grade+AI+systems%2C+not+just+prototypes.;From+reasoning+to+reliable+execution." alt="Tagline" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/taha-codes09">
+    <img src="https://img.shields.io/badge/GitHub-taha--codes09-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.upwork.com/">
+    <img src="https://img.shields.io/badge/Upwork-Available-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  <a href="https://www.freelancer.com/">
+    <img src="https://img.shields.io/badge/Freelancer-Available-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Designing autonomous AI systems that reason, use tools, coordinate agents, retrieve knowledge, and execute real workflows.</strong>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,fastapi,docker,postgres,redis,linux&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,bash,aws,tailwind,nodejs,mysql,supabase,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Agentic%20AI-LangGraph%20%C2%B7%20CrewAI%20%C2%B7%20LangChain%20%C2%B7%20PydanticAI-7c3aed?style=flat-square&labelColor=1e1b4b" />
+  <img src="https://img.shields.io/badge/RAG-Hybrid%20Search%20%C2%B7%20GraphRAG%20%C2%B7%20Vector%20Search-a855f7?style=flat-square&labelColor=1e1b4b" />
+  <img src="https://img.shields.io/badge/MCP-Tool%20Use%20%C2%B7%20Function%20Calling%20%C2%B7%20Context%20Servers-7c3aed?style=flat-square&labelColor=1e1b4b" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-FastAPI%20%C2%B7%20Flask%20%C2%B7%20Node.js%20%C2%B7%20REST%20%C2%B7%20WebSockets-a855f7?style=flat-square&labelColor=1e1b4b" />
+  <img src="https://img.shields.io/badge/Infrastructure-Docker%20%C2%B7%20AWS%20%C2%B7%20DigitalOcean%20%C2%B7%20Redis-a855f7?style=flat-square&labelColor=1e1b4b" />
+  <img src="https://img.shields.io/badge/Applications-React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20SaaS-7c3aed?style=flat-square&labelColor=1e1b4b" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=taha-codes09&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/taha-codes09?style=flat-square&label=Followers" />
+  <img src="https://img.shields.io/github/stars/taha-codes09?style=flat-square&label=Stars" />
+  <img src="https://img.shields.io/github/commit-activity/y/taha-codes09?style=flat-square&label=Activity" />
+</p>
+
+---
+
+<h2 align="center">⚡ Engineering Snapshot</h2>
+
 <div align="center">
 
-<!-- Dynamic Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Hi%2C+I'm+Muhammad+Taha+%F0%9F%91%8B;Architecting+Autonomous+Intelligence+at+Scale" alt="Typing SVG" /></a>
-
-<br/>
-
-### **Muhammad Taha** · [@taha-codes09](https://github.com/taha-codes09)
-
-### **Agentic AI Systems Architect | Orchestrating Autonomous Multi-Agent Intelligence**
-
-<br/>
-
-<!-- Expertise Badges -->
-![EXPERTISE](https://img.shields.io/badge/EXPERTISE-AGENTIC_AI-00D9FF?style=for-the-badge&labelColor=0a0a0a)
-![MULTI-AGENT SYSTEMS](https://img.shields.io/badge/MULTI--AGENT-SYSTEMS-FF6B35?style=for-the-badge&labelColor=0a0a0a)
-![MCP](https://img.shields.io/badge/MCP-PROTOCOL-7B2FBE?style=for-the-badge&labelColor=0a0a0a)
-![LANGGRAPH](https://img.shields.io/badge/LANGGRAPH-CREWAI-00C853?style=for-the-badge&labelColor=0a0a0a)
-![STATUS](https://img.shields.io/badge/STATUS-OPEN_TO_INNOVATE-FF2D55?style=for-the-badge&labelColor=0a0a0a)
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-taha.coder.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taha.coder.work@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-taha--codes09-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taha-codes09)
-
-</div>
-
----
-
-## 🏗️ Engineering Philosophy
-
-> *"Static automation is dead. I build **Autonomous Perception-Action Loops** — systems that don't just execute instructions, they reason through ambiguity, reflect on outcomes, and self-correct in real-time."*
-
-With deep expertise spanning **full-stack engineering** and **agentic AI**, I bridge the gap between LLM capabilities and production-grade reliability. I architect multi-agent systems where autonomous agents collaborate to solve non-linear problems — ensuring traceability, human-aligned execution, and enterprise-grade resilience.
-
-My systems don't just respond — **they think.**
-
----
-
-## 🚀 The Agentic Intelligence Lab
-
-<sub>Below are my flagship autonomous systems — 60 curated, high-fidelity production-grade repositories engineered for high-stakes enterprise environments.</sub>
-
----
-
-### 🛡️ Security & DevOps Agents
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
-
-### 🔴 [AegisCore-DevOps](https://github.com/taha-codes09/AegisCore-DevOps)
-**A-SOC — Autonomous Threat Intelligence & Mitigation**
-
-An agentic, cloud-native security platform that autonomously detects, analyzes, and mitigates threats using LLM-powered multi-agent reasoning with real-time visibility and blast-radius analysis.
-
-`LangGraph` `DeepSeek-V3` `FastAPI` `Docker`
-
+<td align="center" width="25%">
+<strong>51+</strong><br/>
+Public Repositories
 </td>
-<td width="50%">
 
-### ⚙️ [Agentic-Process-Automation](https://github.com/taha-codes09/Agentic-Process-Automation)
-**Aetheris — Autonomous Process Automation**
-
-Beyond RPA and rule-based workflows. Aetheris is the bridge between human intent and autonomous execution, orchestrating dynamic DAG-based workflows with human-in-the-loop checkpoints.
-
-`LangGraph` `Python` `Orchestration` `Docker`
-
+<td align="center" width="25%">
+<strong>Agentic AI</strong><br/>
+Primary Discipline
 </td>
-</tr>
-<tr>
-<td width="50%">
 
-### 🗡️ [Mantis-AI](https://github.com/taha-codes09/Mantis-AI)
-**The Future of Offensive Security**
-
-Orchestrated by Autonomous AI Agents — automating threat detection, security auditing, and algorithmic defense through multi-agent collaboration.
-
-`Multi-Agent` `Python` `Security` `LangGraph`
-
+<td align="center" width="25%">
+<strong>Multi-Agent</strong><br/>
+Core Architecture
 </td>
-<td width="50%">
 
-### 🔍 [Helix-AI-Orchestrator](https://github.com/taha-codes09/Helix-AI-Orchestrator)
-**Enterprise Multi-Modal Agent Framework**
-
-A premium autonomous system for deep code auditing and multimodal task orchestration using LangGraph-based cyclic architecture with 11 specialized reasoning nodes mirroring senior engineer cognition.
-
-`LangGraph` `AST` `Python` `Code Analysis`
-
+<td align="center" width="25%">
+<strong>Production</strong><br/>
+Deployment Focus
 </td>
 </tr>
 </table>
 
----
-
-### 💼 Business & Enterprise Agents
-
-<table>
-<tr>
-<td width="50%">
-
-### 📊 [AI-powered-Sales-CRM-Agent](https://github.com/taha-codes09/AI-powered-Sales-CRM-Agent)
-**SalesIQ — Autonomous Revenue Engine**
-
-Not just a CRM tool — a specialized revenue engine built on Model Context Protocol (MCP), powered by LangGraph + CrewAI, automating the high-friction parts of the sales lifecycle.
-
-`MCP` `LangGraph` `CrewAI` `Python`
-
-</td>
-<td width="50%">
-
-### 🧠 [Autonomous-Multi-Agent-Orchestration-for-Business-Synthesis](https://github.com/taha-codes09/Autonomous-Multi-Agent-Orchestration-for-Business-Synthesis)
-**Nexus Intelligence — Meeting-to-Action Pipeline**
-
-Turns messy conversations into clear, machine-readable insights using autonomous AI agents, extracting strategic intelligence instead of just transcribing.
-
-`Multi-Agent` `NLP` `Python` `LangGraph`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎤 [Meeting-Intelligence-Agent](https://github.com/taha-codes09/Meeting-Intelligence-Agent)
-**Unstructured Audio → Actionable Logic**
-
-A modular, multi-agent AI system that transforms raw business conversations into high-impact actionable intelligence with strategic distillation.
-
-`CrewAI` `Whisper` `OpenAI` `Python`
-
-</td>
-<td width="50%">
-
-### 📬 [Outreach-Pro-Agent](https://github.com/taha-codes09/Outreach-Pro-Agent)
-**Precision Targeting Platform**
-
-High-precision targeting system leveraging LLMs and real-time data enrichment to transform cold outreach into data-enriched strategic engagements.
-
-`TypeScript` `Puppeteer` `Data Enrichment` `AI`
-
-</td>
-</tr>
-</table>
-
----
-
-### 🏥 Industry-Specific Agents & Platforms
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏛️ [Legal-Assistant-Agent-with-MCP](https://github.com/taha-codes09/Legal-Assistant-Agent-with-MCP)
-**LexPilot — AI Legal Intelligence**
-
-An AI-powered legal platform automating contract review, legal research, document drafting, deadline tracking, and billing for modern law firms.
-
-`MCP` `LangGraph` `FastAPI` `Python`
-
-</td>
-<td width="50%">
-
-### 🏥 [ClaimOS](https://github.com/taha-codes09/ClaimOS)
-**ClaimOS — 4-Day to 4-Minute Processing**
-
-Enterprise-grade AI system that transforms insurance claims processing from a 4-day manual workflow into a 4-minute automated decision pipeline.
-
-`Multi-Agent` `Python` `FastAPI` `LangGraph`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📈 [Stock-Agent](https://github.com/taha-codes09/Stock-Agent)
-**Multi-Agent Stock Market Simulation**
-
-A research-grade, multi-agent AI system simulating a fully functional stock market — where every trader is powered by a Large Language Model.
-
-`Multi-Agent` `LLM` `Python` `Finance`
-
-</td>
-<td width="50%">
-
-### 🛒 [Shopping-GPT](https://github.com/taha-codes09/Shopping-GPT)
-**Agentic E-Commerce Intelligence**
-
-A production-ready, agentic AI recommendation engine for e-commerce — routing conversations through semantic classifiers, dispatching to specialized LangChain tools.
-
-`LangChain` `RAG` `Flask` `NLP`
-
-</td>
-</tr>
-</table>
-
----
-
-### 🎓 Education & Social Agents
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 [CogniLearn-AI](https://github.com/taha-codes09/CogniLearn-AI)
-**Autonomous AI Tutor Ecosystem**
-
-Powered by LangGraph & CrewAI — delivering hyper-personalized lessons, intelligent quizzes, and 24/7 doubt resolution through multi-agent collaboration.
-
-`LangGraph` `CrewAI` `Python` `Education`
-
-</td>
-<td width="50%">
-
-### 📱 [Social-Media-Autopilot-Agent-with-MCP](https://github.com/taha-codes09/Social-Media-Autopilot-Agent-with-MCP)
-**SocialPilot — Autonomous Marketing**
-
-Enterprise-grade autonomous system handling the entire lifecycle of social media marketing — from trend discovery to content creation, safety validation, and automated scheduling.
-
-`MCP` `Python` `Multi-Agent` `Marketing`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💼 [NexusHire-AI-Agent](https://github.com/taha-codes09/NexusHire-AI-Agent)
-**NexusHire — Autonomous Sourcing & Screening**
-
-A next-generation autonomous agent revolutionizing candidate screening and technical sourcing using multi-agent cognitive workflows.
-
-`Multi-Agent` `Python` `Automation` `FastAPI`
-
-</td>
-<td width="50%">
-
-### 📝 [The-Autonomous-Editorial-Suite](https://github.com/taha-codes09/The-Autonomous-Editorial-Suite)
-**QuantumContent — 6-Agent Content Pipeline**
-
-An industrial-grade Autonomous Editorial Suite replacing fragmented content workflows with a unified, 6-agent cognitive pipeline.
-
-`Multi-Agent` `Python` `NLP` `LangGraph`
-
-</td>
-</tr>
-</table>
-
----
-
-### 🏭 SaaS, ERP & Knowledge Infrastructure
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 [cwt-erp-pos](https://github.com/taha-codes09/cwt-erp-pos)
-**Enterprise ERP & Point of Sale Suite**
-
-A robust, enterprise-grade ERP and POS system providing unified inventory tracking, multi-branch management, point-of-sale terminals, and financial reporting.
-
-`TypeScript` `React` `Node.js` `Enterprise ERP`
-
-</td>
-<td width="50%">
-
-### ⚡ [Hikari-saas](https://github.com/taha-codes09/Hikari-saas)
-**High-Performance SaaS Platform Engine**
-
-An all-in-one modern SaaS platform template engineered with Next.js, featuring automated multi-tenancy, billing gateways, role-based access control, and edge performance.
-
-`TypeScript` `Next.js` `TailwindCSS` `SaaS`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💬 [Multi-Agent-RAG-Customer-Support-System](https://github.com/taha-codes09/Multi-Agent-RAG-Customer-Support-System)
-**Enterprise Multi-Agent Customer Support RAG**
-
-A state-of-the-art Multi-Agent Retrieval-Augmented Generation system designed for complex customer support automation with contextual retrieval and triage.
-
-`Python` `LangChain` `Vector DB` `FastAPI`
-
-</td>
-<td width="50%">
-
-### 🕸️ [flexible-graphrag](https://github.com/taha-codes09/flexible-graphrag)
-**Flexible Knowledge Graph & Hybrid RAG Engine**
-
-Open-source platform for advanced document processing, knowledge graph construction, and hybrid vector-graph retrieval capabilities.
-
-`Python` `GraphRAG` `Knowledge Graphs` `Search`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔧 The Global Intelligence Stack
-
-| Layer | Core Technologies |
-|:------|:-----------------|
-| **🧠 Logic Engines** | OpenAI, Claude , DeepSeek , Llama , Gemini |
-| **🤖 Agentic Frameworks** | LangGraph (Stateful Cyclic Logic), CrewAI (Role-based), LangChain, PydanticAI |
-| **🔌 Protocols** | Model Context Protocol (MCP), Tool-Use APIs, Function Calling |
-| **🔗 RAG & Knowledge** | Pinecone, ChromaDB, FAISS, GraphRAG, LlamaIndex, Hybrid Search |
-| **⚡ Orchestration** | Python (FastAPI/Flask), TypeScript (Node.js/Next.js), React |
-| **🛡️ Backend & APIs** | NestJS, REST/GraphQL, WebSockets, Microservices, PostgreSQL |
-| **🏗️ Ops & Infrastructure** | Docker, AWS, DigitalOcean, Supabase, Redis, CI/CD Pipelines |
-| **👁️ Computer Vision** | OCR, Layout Analysis, Table Recognition, Document AI |
-
----
-
-## 📊 Technical Velocity & Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=taha-codes09&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=FF6B35&text_color=c9d1d9&ring_color=00D9FF" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha-codes09&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" width="49%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=taha-codes09&theme=radical&hide_border=true&background=0d1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=555555" width="70%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=taha-codes09&theme=react-dark&hide_border=true&bg_color=0d1117&color=00D9FF&line=FF6B35&point=00D9FF&area=true&area_color=00D9FF" width="95%" />
-
 </div>
 
 ---
 
-## 🏆 Awards & Achievements
+# 🧠 About
 
-<sub>Platform recognition, contribution milestones, and portfolio highlights.</sub>
+I'm **Muhammad Taha**, an **Agentic AI Engineer** focused on designing and deploying production-grade AI systems.
 
-### 🎖️ GitHub Platform Recognition
+My work sits at the intersection of:
 
-<div align="center">
+* 🤖 **Agentic AI**
+* 🔄 **Multi-agent orchestration**
+* 🧠 **LLM applications**
+* 🔎 **RAG & knowledge systems**
+* 🔌 **Model Context Protocol (MCP)**
+* ⚙️ **Workflow automation**
+* 🏗️ **Backend & distributed systems**
+* 🌐 **Full-stack product engineering**
+* 🐳 **Containerized deployment**
+* ☁️ **Cloud infrastructure**
 
-<a href="https://github.com/taha-codes09?tab=achievements">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taha-codes09&theme=radical" alt="GitHub Profile Details" width="98%" />
-</a>
+I don't approach AI as simply:
 
-<br/><br/>
+> `prompt → response`
 
-[![Achievements](https://img.shields.io/badge/View-GitHub_Achievements-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/taha-codes09?tab=achievements)
-[![Trophies](https://img.shields.io/badge/View-Profile_Trophies-FF6B35?style=for-the-badge&labelColor=0a0a0a)](https://github.com/taha-codes09)
-
-</div>
-
-| Recognition | Status |
-|:------------|:-------|
-| **Public Repositories** | 60 Curated High-Fidelity Production Systems |
-| **Contribution Graph** | Consistent daily activity (2024–2026) |
-| **Agentic AI Portfolio** | Comprehensive suite of autonomous multi-agent systems |
-| **Open Source Maintainer** | Active multi-repo architecture & releases |
-
-### 🥇 Contribution Milestones
-
-<div align="center">
-
-![Repositories](https://img.shields.io/badge/Repositories-60_High--Fidelity-00D9FF?style=for-the-badge&labelColor=0a0a0a)
-![Contributions](https://img.shields.io/badge/Contributions-2000%2B-FF6B35?style=for-the-badge&labelColor=0a0a0a)
-![Streak](https://img.shields.io/badge/Activity-2024--2026-7B2FBE?style=for-the-badge&labelColor=0a0a0a)
-![Multi-Agent](https://img.shields.io/badge/Focus-Multi--Agent_AI-00C853?style=for-the-badge&labelColor=0a0a0a)
-
-</div>
-
-### 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=taha-codes09&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8" width="95%" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🔬 What Sets Me Apart
+I design systems closer to:
 
 ```text
-🎯 AGENTIC REASONING       ████████████████████████░   95%  — Multi-step autonomous decision loops
-🔄 MULTI-AGENT SYSTEMS     ███████████████████████░░   92%  — Collaborative agent orchestration
-🔌 MCP PROTOCOL            ████████████████████████░   95%  — Model Context Protocol integration
-🧠 RAG & KNOWLEDGE GRAPHS  ████████████████████████░   95%  — Production retrieval pipelines
-⚡ FULL-STACK ENGINEERING   ████████████████████████░   96%  — End-to-end system architecture
-🛡️ PRODUCTION DEPLOYMENT   ███████████████████████░░   90%  — Scalable, fault-tolerant systems
-🤖 LLM INTEGRATION         ████████████████████████░   95%  — Multi-model orchestration & routing
+                         ┌──────────────────────┐
+                         │      HUMAN INTENT    │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │   PLANNING / ROUTING │
+                         └──────────┬───────────┘
+                                    │
+                 ┌──────────────────┼──────────────────┐
+                 ▼                  ▼                  ▼
+          ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
+          │   RESEARCH  │    │  REASONING  │    │   EXECUTION │
+          │    AGENT    │    │    AGENT    │    │    AGENT    │
+          └──────┬──────┘    └──────┬──────┘    └──────┬──────┘
+                 │                  │                  │
+                 └──────────────────┼──────────────────┘
+                                    ▼
+                         ┌──────────────────────┐
+                         │ TOOLS / MCP / APIs   │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │ VALIDATION / MEMORY  │
+                         └──────────┬───────────┘
+                                    │
+                                    ▼
+                         ┌──────────────────────┐
+                         │   ACTION / OUTPUT    │
+                         └──────────────────────┘
 ```
+
+The goal is not merely to make an LLM answer correctly.
+
+**The goal is to build a system that can reason, retrieve, act, validate, recover from failure, and produce useful outcomes.**
 
 ---
 
-## 🔗 Synthesis & Transmission
+# 🚀 Featured Systems
+
+These are the projects that best represent the engineering direction of my GitHub portfolio.
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛡️ AegisCore-DevOps
+
+**Autonomous Security & DevOps Intelligence**
+
+An agentic platform designed around autonomous threat analysis, operational reasoning, mitigation workflows, and infrastructure intelligence.
+
+**Architecture**
+
+`Python` · `LangGraph` · `FastAPI` · `Docker` · `LLM Agents`
+
+**Focus**
+
+* Autonomous reasoning
+* Security analysis
+* Threat intelligence
+* Operational automation
+* Agent coordination
+
+<a href="https://github.com/taha-codes09/AegisCore-DevOps">
+<img src="https://img.shields.io/badge/Explore_Repository-%E2%86%92-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ AI Operations Manager
+
+**Autonomous Workflow Intelligence**
+
+An AI-driven operations platform designed to reason over operational workflows and coordinate automated actions.
+
+**Architecture**
+
+`TypeScript` · `AI Agents` · `Automation` · `Workflow Orchestration`
+
+**Focus**
+
+* Autonomous operations
+* Workflow intelligence
+* Decision automation
+* Tool execution
+* Operational agents
+
+<a href="https://github.com/taha-codes09/AI-Operations-Manager-Agent">
+<img src="https://img.shields.io/badge/Explore_Repository-%E2%86%92-a855f7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 SalesIQ
+
+**Autonomous AI Sales / CRM Agent**
+
+An agentic revenue workflow combining AI reasoning, MCP, multi-agent orchestration, and business process automation.
+
+**Architecture**
+
+`Python` · `LangGraph` · `CrewAI` · `MCP`
+
+**Focus**
+
+* Lead intelligence
+* Sales automation
+* Agent orchestration
+* MCP tool integration
+* Revenue workflows
+
+<a href="https://github.com/taha-codes09/AI-powered-Sales-CRM-Agent">
+<img src="https://img.shields.io/badge/Explore_Repository-%E2%86%92-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏠 AI Real Estate Assistant
+
+**Production-Oriented AI Platform**
+
+An AI platform designed around real-estate workflows, conversational intelligence, retrieval, and automated assistance.
+
+**Architecture**
+
+`Python` · `AI Agents` · `RAG` · `Backend APIs`
+
+**Focus**
+
+* Domain-specific AI
+* Conversational workflows
+* Retrieval
+* Automation
+* Business applications
+
+<a href="https://github.com/taha-codes09/AI-Real-Estate-Assistant">
+<img src="https://img.shields.io/badge/Explore_Repository-%E2%86%92-a855f7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏢 CWT ERP / POS
+
+**Enterprise Business Management Platform**
+
+A full-stack ERP and POS platform covering operational workflows, inventory, multi-branch management, financial reporting, and business administration.
+
+**Architecture**
+
+`React` · `TypeScript` · `Node.js` · `Enterprise Architecture`
+
+**Focus**
+
+* ERP
+* POS
+* Inventory
+* Multi-branch operations
+* Financial workflows
+* Business management
+
+<a href="https://github.com/taha-codes09/cwt-erp-pos">
+<img src="https://img.shields.io/badge/Explore_Repository-%E2%86%92-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🕸️ Flexible GraphRAG
+
+**Knowledge Graph + Hybrid Retrieval**
+
+A flexible retrieval architecture combining document processing, knowledge graphs, vector retrieval, and graph-aware search.
+
+**Architecture**
+
+`Python` · `GraphRAG` · `Knowledge Graphs` · `Vector Search`
+
+**Focus**
+
+* Hybrid retrieval
+* Knowledge graphs
+* Semantic search
+* Document intelligence
+* Context-aware generation
+
+<a href="https://github.com/taha-codes09/flexible-graphrag">
+<img src="https://img.shields.io/badge/Explore_Repository-%E2%86%92-a855f7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧩 Agentic Systems Portfolio
+
+My repositories explore agentic architectures across different business and technical domains.
+
+### 🛡️ Security & DevOps
+
+| System                    | Engineering Problem                                   |
+| :------------------------ | :---------------------------------------------------- |
+| **AegisCore-DevOps**      | Autonomous security and operational intelligence      |
+| **Mantis-AI**             | Multi-agent security analysis and defense workflows   |
+| **Helix-AI-Orchestrator** | Autonomous code auditing and multimodal orchestration |
+| **AI Operations Manager** | Autonomous operational workflow intelligence          |
+
+---
+
+### 💼 Business & Enterprise Automation
+
+| System                         | Engineering Problem                                |
+| :----------------------------- | :------------------------------------------------- |
+| **SalesIQ**                    | Autonomous sales and CRM workflows                 |
+| **Nexus Intelligence**         | Meeting intelligence → structured business actions |
+| **Meeting Intelligence Agent** | Audio → insights → actionable intelligence         |
+| **Outreach Pro Agent**         | Data-enriched automated outreach                   |
+| **NexusHire**                  | Autonomous candidate sourcing and screening        |
+
+---
+
+### 🏥 Domain-Specific AI
+
+| System                       | Engineering Problem                   |
+| :--------------------------- | :------------------------------------ |
+| **LexPilot**                 | AI-assisted legal workflows           |
+| **ClaimOS**                  | Automated insurance claims processing |
+| **AI Real Estate Assistant** | AI-assisted real estate operations    |
+| **CogniLearn**               | Personalized AI learning workflows    |
+| **Shopping-GPT**             | Agentic e-commerce assistance         |
+
+---
+
+### 🏭 SaaS, ERP & Infrastructure
+
+| System                           | Engineering Problem                                  |
+| :------------------------------- | :--------------------------------------------------- |
+| **CWT ERP / POS**                | Enterprise resource planning and business operations |
+| **Hikari SaaS**                  | Multi-tenant SaaS architecture                       |
+| **Multi-Agent Customer Support** | Support automation with RAG and agent routing        |
+| **Flexible GraphRAG**            | Knowledge graph + hybrid retrieval infrastructure    |
+
+---
+
+# 🔌 The Intelligence Stack
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Muhammad_Taha-00D9FF?style=for-the-badge&labelColor=0a0a0a)](https://github.com/taha-codes09)
-[![Email](https://img.shields.io/badge/Email-taha.coder.work%40gmail.com-D14836?style=for-the-badge&labelColor=0a0a0a)](mailto:taha.coder.work@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-taha--codes09-181717?style=for-the-badge&labelColor=0a0a0a)](https://github.com/taha-codes09)
+| Layer                   | Technologies                                   |
+| :---------------------- | :--------------------------------------------- |
+| 🧠 **LLM Providers**    | OpenAI · Claude · Gemini · DeepSeek · Llama    |
+| 🤖 **Agent Frameworks** | LangGraph · CrewAI · LangChain · PydanticAI    |
+| 🔌 **Protocols**        | MCP · Function Calling · Tool APIs             |
+| 🔎 **Retrieval**        | RAG · Hybrid Search · Vector Search · GraphRAG |
+| 🧠 **Knowledge**        | Pinecone · ChromaDB · FAISS · Knowledge Graphs |
+| ⚡ **Backend**           | FastAPI · Flask · Node.js · REST · WebSockets  |
+| 🌐 **Frontend**         | React · Next.js · TypeScript                   |
+| 🗄️ **Data**            | PostgreSQL · MySQL · Redis · Supabase          |
+| 🐳 **Infrastructure**   | Docker · Docker Compose · AWS · DigitalOcean   |
+| 🔄 **Automation**       | n8n · Workflow Engines · Agent Tooling         |
+| 👁️ **Document AI**     | OCR · Layout Analysis · Document Processing    |
+| 🧪 **Engineering**      | Git · GitHub · CI/CD · Testing · Observability |
 
 </div>
 
 ---
 
+# 🏗️ Engineering Patterns
 
+I repeatedly build around a set of architectural patterns rather than isolated scripts.
+
+| Pattern                       | Application                                             |
+| :---------------------------- | :------------------------------------------------------ |
+| **Multi-Agent Orchestration** | Specialized agents collaborating on complex tasks       |
+| **Stateful Agent Graphs**     | Cyclic reasoning, branching and recovery                |
+| **Tool-Using Agents**         | Agents interacting with APIs and external systems       |
+| **MCP Integration**           | Standardized model-to-tool communication                |
+| **Agentic RAG**               | Retrieval as an active reasoning step                   |
+| **Hybrid Retrieval**          | Combining semantic and structured knowledge             |
+| **Human-in-the-Loop**         | Approval checkpoints for sensitive actions              |
+| **Workflow Automation**       | AI-powered business process execution                   |
+| **Validation Loops**          | Checking generated outputs before execution             |
+| **Memory & Context**          | Maintaining relevant state across workflows             |
+| **Microservice APIs**         | Separating intelligence from application infrastructure |
+| **Containerized Deployment**  | Reproducible production environments                    |
+| **Full-Stack Integration**    | Connecting AI engines to real applications              |
+
+---
+
+# 🔬 How I Build AI Systems
+
+```mermaid
+flowchart LR
+
+A["🎯 Business Problem"]
+--> B["🧠 Agent / System Design"]
+
+B --> C["📚 Knowledge & Context"]
+
+C --> D["🤖 Reasoning"]
+
+D --> E["🔌 Tool / MCP Execution"]
+
+E --> F["🛡️ Validation"]
+
+F --> G["⚡ Action"]
+
+G --> H["📊 Observability"]
+
+H --> I["🔄 Feedback / Recovery"]
+
+I --> D
+
+classDef start fill:#1e1b4b,stroke:#7c3aed,stroke-width:2px,color:#f8fafc
+classDef core fill:#312e81,stroke:#8b5cf6,stroke-width:2px,color:#f8fafc
+classDef output fill:#3b0764,stroke:#c084fc,stroke-width:3px,color:#f8fafc
+
+class A start
+class B,C,D,E,F,G,H,I core
+```
+
+A production AI system should answer more than:
+
+**"What did the model generate?"**
+
+It should also answer:
+
+* Why did the system make this decision?
+* What context did it use?
+* Which tools did it call?
+* What happened when a tool failed?
+* Was the output validated?
+* Can the workflow recover?
+* Can a human intervene?
+* Can the execution be observed and reproduced?
+
+---
+
+# ⚡ What I Build
+
+### 🤖 Agentic AI
+
+* Autonomous agents
+* Multi-agent collaboration
+* Stateful reasoning
+* Tool-using agents
+* Agentic workflows
+* MCP-powered systems
+* AI decision engines
+
+### 🔎 Retrieval & Knowledge
+
+* RAG pipelines
+* Hybrid retrieval
+* Vector search
+* Knowledge graphs
+* GraphRAG
+* Document intelligence
+* Semantic search
+
+### ⚙️ AI Automation
+
+* Business process automation
+* n8n workflows
+* AI-powered operations
+* CRM automation
+* Customer support automation
+* Research automation
+* Data enrichment
+
+### 🏗️ Software Engineering
+
+* Python backend systems
+* FastAPI services
+* REST APIs
+* WebSockets
+* React applications
+* Next.js applications
+* TypeScript systems
+* SaaS platforms
+* ERP/POS platforms
+
+### 🐳 Infrastructure
+
+* Docker
+* Docker Compose
+* Redis
+* PostgreSQL
+* AWS
+* DigitalOcean
+* CI/CD
+* Production deployment
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=taha-codes09&hide_border=true&theme=dark&ring=a855f7&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taha-codes09&show_icons=true&hide_border=true&theme=transparent&title_color=a78bfa&icon_color=a855f7&text_color=cbd5e1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha-codes09&layout=compact&hide_border=true&theme=transparent&title_color=a78bfa&text_color=cbd5e1" />
+</p>
+
+---
+
+# 🏆 GitHub Portfolio
+
+<p align="center">
+  <img src="https://img.shields.io/badge/51%2B-Public%20Repositories-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core%20Focus-Agentic%20AI-a855f7?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <sub>
+    Portfolio metrics are intentionally kept tied to publicly visible GitHub information rather than inflated claims.
+  </sub>
+</p>
+
+---
+
+# 🎯 Engineering Philosophy
+
+<p align="center">
+  <em><strong>An LLM response is not a production system.</strong></em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Reasoning-1e1b4b?style=for-the-badge&color=7c3aed" />
+  <img src="https://img.shields.io/badge/Tool%20Use-1e1b4b?style=for-the-badge&color=7c3aed" />
+  <img src="https://img.shields.io/badge/Validation-1e1b4b?style=for-the-badge&color=7c3aed" />
+  <img src="https://img.shields.io/badge/Observability-1e1b4b?style=for-the-badge&color=7c3aed" />
+  <img src="https://img.shields.io/badge/Reliability-1e1b4b?style=for-the-badge&color=a855f7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Automation-1e1b4b?style=for-the-badge&color=a855f7" />
+  <img src="https://img.shields.io/badge/Scalability-1e1b4b?style=for-the-badge&color=a855f7" />
+  <img src="https://img.shields.io/badge/Security-1e1b4b?style=for-the-badge&color=a855f7" />
+  <img src="https://img.shields.io/badge/Production%20Readiness-1e1b4b?style=for-the-badge&color=a855f7" />
+</p>
+
+<p align="center">
+  <sub>
+    I care about what happens <strong>after</strong> the model produces an answer.
+  </sub>
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/taha-codes09">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.upwork.com/">
+<img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
+</a>
+
+<a href="https://www.freelancer.com/">
+<img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <strong>Building autonomous intelligence that can reason, act, and deliver.</strong>
+</p>
+
+<p align="center">
+  <sub>© Muhammad Taha · Agentic AI Engineering</sub>
+</p>
