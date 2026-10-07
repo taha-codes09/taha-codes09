@@ -596,9 +596,10 @@ It should also answer:
 <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
 
-<a href="https://www.freelancer.com/">
-<img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/>
+<a href="https://taha-codes.vercel.app/">
+  <img src="https://img.shields.io/badge/Web%20Portfolio-29B2FE?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
+
 
 </p>
 
